@@ -1,5 +1,5 @@
-# hello-world
-first repository
+# Hello-World
+First repository
 
-hello everyone!!
-first to this page..nice expirience.
+Hello everyone!!
+First to this page..nice expirience.
